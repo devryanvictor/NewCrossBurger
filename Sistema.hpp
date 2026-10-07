@@ -11,7 +11,7 @@ private:
     ListaHistoricoPedidos historico;
     FilaPreparo filaPreparo;
     PilhaAcoes pilhaAcoes;
-
+    int proximoNumeroPedido; // Variável para gerar números de pedido únicos
 public:
     Sistema();
 
