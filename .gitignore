@@ -1,0 +1,15 @@
+# Executaveis e artefatos de compilacao C/C++
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Diretorios de build comuns
+/build/
+/bin/
+/cmake-build-*/
